@@ -51,4 +51,4 @@ o	Bounding boxes on detected vehicles
 o	IDs and confidence scores
 o	Line for vehicle counting
 o	Total vehicle count displayed
-![image](https://github.com/user-attachments/assets/7849ab16-605b-4cea-8855-43bc04997951)
+# ![image](https://github.com/user-attachments/assets/7849ab16-605b-4cea-8855-43bc04997951)
