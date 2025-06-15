@@ -1,3 +1,8 @@
+How to run this project ?
+Load this project into python Intrepeter or Visual Studio Code 
+Navigate to ../../../ObjectDetection/car-Counter/counter_code.py 
+Run this counter_code.py
+
 Project Overview:
 
 This project uses a combination of YOLOv8 object detection and the SORT tracking algorithm to detect, track, and count vehicles in a video stream. It processes frames from a video, identifies vehicles such as cars, buses, trucks, and bicycles, tracks them using unique IDs, and counts them when they cross a predefined virtual line.
